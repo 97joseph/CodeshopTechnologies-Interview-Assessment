@@ -2,7 +2,7 @@
  Interview Assignment
 
  
-# QUESTION 1.Given an input string, reverse the string word by word.
+## QUESTION 1.Given an input string, reverse the string word by word.
 
 A word is defined as a sequence of non-space characters.
 
@@ -50,7 +50,7 @@ YOUR CODE HERE
 return $new_str;
 }
 
-# QUESTION 2.Given a square matrix,
+##  QUESTION 2.Given a square matrix,
 find
 1.the sum of the values on the main diagonal (which runs from the upper left to the lower right).
 2.the number of rows of the matrix that contain repeated elements
@@ -95,7 +95,7 @@ function processMatrix($arr)
 YOUR CODE HERE
 --------------
 }
-# QUESTION 3 - COMBINATION SUM
+## QUESTION 3 - COMBINATION SUM
 
 Given an array of distinct integer candidates and a target integer target, return a list of all unique combinations of candidates where the chosen numbers sum to target. You may return the combinations in any order.
 
@@ -143,7 +143,7 @@ class Solution {
     }
 }
 
-# QUESTION 4: Non-overlapping Intervals
+##  QUESTION 4: Non-overlapping Intervals
 Given an array of intervals intervals where intervals[i] = [starti, endi], return the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.
 
  
